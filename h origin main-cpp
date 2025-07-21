@@ -1,0 +1,31 @@
+[33m2df923c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch-showaccountswindow.cpp[m[33m)[m اضافه کردن کامنت تستی برای بررسی Pull Request
+[33mc431875[m افزودن فایل main.cpp
+[33m9f34f4d[m افزودن فایل main.cpp
+[33m02d54ff[m افزودن فایل تست برای تست pull request
+[33m00c010e[m[33m ([m[1;31morigin/branch-showaccountswindow.cpp[m[33m)[m افزودن فایل showaccountswindow.cpp
+[33m896c619[m[33m ([m[1;31morigin/branch-showaccountswindow.h[m[33m, [m[1;32mbranch-showaccountswindow.h[m[33m)[m افزودن فایل showaccountswindow.h
+[33m98ef96a[m[33m ([m[1;31morigin/branch-customerwindow.cpp[m[33m, [m[1;32mbranch-customerwindow.cpp[m[33m)[m افزودن فایل customerwindow.cpp
+[33m8c9a4fe[m[33m ([m[1;31morigin/branch-customerwindow.h[m[33m, [m[1;32mbranch-customerwindow.h[m[33m)[m افزودن فایل customerwindow.h
+[33mefd4d08[m[33m ([m[1;31morigin/branch-transferwindow.cpp[m[33m, [m[1;32mbranch-transferwindow.cpp[m[33m)[m افزودن فایل transferwindow.cpp
+[33m177dda3[m[33m ([m[1;31morigin/branch-transferwindow.h[m[33m, [m[1;32mbranch-transferwindow.h[m[33m)[m افزودن فایل transferwindow.h
+[33m71953c3[m[33m ([m[1;31morigin/branch-changepinwindow.cpp[m[33m, [m[1;32mbranch-changepinwindow.cpp[m[33m)[m افزودن فایل changepinwindow.cpp
+[33ma35efd0[m[33m ([m[1;31morigin/branch-changepinwindow.h[m[33m, [m[1;32mbranch-changepinwindow.h[m[33m)[m افزودن فایل changepinwindow.h
+[33mfce955a[m[33m ([m[1;31morigin/branch-edituserwindow.cpp[m[33m, [m[1;32mbranch-edituserwindow.cpp[m[33m)[m افزودن فایل edituserwindow.cpp
+[33md1a500b[m[33m ([m[1;31morigin/branch-edituserwindow.h[m[33m, [m[1;32mbranch-edituserwindow.h[m[33m)[m افزودن فایل edituserwindow.h
+[33m0a1f697[m[33m ([m[1;31morigin/branch-deleteaccountwindow.cpp[m[33m, [m[1;32mbranch-deleteaccountwindow.cpp[m[33m)[m افزودن فایل deleteaccountwindow.cpp
+[33mb299a1a[m[33m ([m[1;31morigin/branch-deleteaccountwindow.h[m[33m, [m[1;32mbranch-deleteaccountwindow.h[m[33m)[m افزودن فایل deleteaccountwindow.h
+[33mc532386[m[33m ([m[1;31morigin/branch-createaccountwindow.cpp[m[33m, [m[1;32mbranch-createaccountwindow.cpp[m[33m)[m افزودن فایل createaccountwindow.cpp
+[33m45a6142[m[33m ([m[1;31morigin/branch-createaccountwindow.h[m[33m, [m[1;32mbranch-createaccountwindow.h[m[33m)[m افزودن فایل createaccountwindow.h
+[33mc5655a9[m[33m ([m[1;31morigin/branch-addcustomerwindow.cpp[m[33m, [m[1;32mbranch-addcustomerwindow.cpp[m[33m)[m افزودن فایل addcustomerwindow.cpp
+[33m7216cdf[m[33m ([m[1;31morigin/branch-addcustomerwindow.h[m[33m, [m[1;32mbranch-addcustomerwindow.h[m[33m)[m افزودن فایل addcustomerwindow.h
+[33me8b99c4[m[33m ([m[1;31morigin/branch-adminmanagerwindow.cpp[m[33m, [m[1;32mbranch-adminmanagerwindow.cpp[m[33m)[m افزودن فایل adminmanagerwindow.cpp
+[33m20f11f4[m[33m ([m[1;31morigin/branch-adminmanagerwindow.h[m[33m, [m[1;32mbranch-adminmanagerwindow.h[m[33m)[m افزودن فایل adminmanagerwindow.h
+[33m7258a39[m[33m ([m[1;31morigin/branch-adminwindow.cpp[m[33m, [m[1;32mbranch-adminwindow.cpp[m[33m)[m افزودن فایل adminwindow.cpp
+[33m38a28b0[m[33m ([m[1;31morigin/branch-adminwindow.h[m[33m, [m[1;32mbranch-adminwindow.h[m[33m)[m افزودن فایل adminwindow.h
+[33m11bbfb2[m[33m ([m[1;31morigin/branch-mainwindow.cpp[m[33m, [m[1;32mbranch-mainwindow.cpp[m[33m)[m افزودن فایل mainwindow.cpp
+[33m8e60a66[m[33m ([m[1;31morigin/branch-mainwindow.h[m[33m, [m[1;32mbranch-mainwindow.h[m[33m)[m افزودن فایل mainwindow.h
+[33m9099abd[m[33m ([m[1;31morigin/branch-loginwindow.cpp[m[33m, [m[1;32mbranch-loginwindow.cpp[m[33m)[m افزودن فایل loginwindow.cpp
+[33m303fbdc[m[33m ([m[1;31morigin/branch-loginwindow.h[m[33m, [m[1;32mbranch-loginwindow.h[m[33m)[m افزودن فایل loginwindow.h
+[33m0385fad[m[33m ([m[1;31morigin/bank-system-h[m[33m, [m[1;32mbank-system-h[m[33m)[m افزودن فایل bank_system.h
+[33mf2e3a06[m[33m ([m[1;31morigin/bank-system-cpp[m[33m, [m[1;32mbank-system-cpp[m[33m)[m افزودن فایل bank_system.cpp
+[33mbcb8f82[m[33m ([m[1;31morigin/main-cpp[m[33m, [m[1;32mmain-cpp[m[33m)[m افزودن فایل main.cpp
